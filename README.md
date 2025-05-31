@@ -1,6 +1,6 @@
 # <div align='center'>Baileys - API de WhatsApp Web para Typescript/Javascript</div>
 
-<div align="center"><img src="https://iili.io/2Zpjtlp.jpg"></div>
+<div align="center"><img src="https://f.uguu.se/AmmHkqQQ.jpg"></div>
 
 ## Nota Importante
 
