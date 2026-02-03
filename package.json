@@ -1,5 +1,5 @@
 {
-  "name": "@el-brayan502/baileys-xd",
+  "name": "baileys-xd",
   "version": "1.0.0",
   "description": "baileys whatsapp-api",
   "main": "lib/index.js",
